@@ -1,30 +1,19 @@
 {
   "files": {
     "main.css": "/React/static/css/main.4d10906e.chunk.css",
-    "main.js": "/React/static/js/main.b3c33ee6.chunk.js",
-    "main.js.map": "/React/static/js/main.b3c33ee6.chunk.js.map",
-    "runtime-main.js": "/React/static/js/runtime-main.bc5b2288.js",
-    "runtime-main.js.map": "/React/static/js/runtime-main.bc5b2288.js.map",
+    "main.js": "/React/static/js/main.6410ff90.chunk.js",
+    "main.js.map": "/React/static/js/main.6410ff90.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.dff1cbd3.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.dff1cbd3.js.map",
     "static/css/2.27dd871e.chunk.css": "/React/static/css/2.27dd871e.chunk.css",
-    "static/js/2.e7193fa0.chunk.js": "/React/static/js/2.e7193fa0.chunk.js",
-    "static/js/2.e7193fa0.chunk.js.map": "/React/static/js/2.e7193fa0.chunk.js.map",
-    "static/js/3.38ec30a8.chunk.js": "/React/static/js/3.38ec30a8.chunk.js",
-    "static/js/3.38ec30a8.chunk.js.map": "/React/static/js/3.38ec30a8.chunk.js.map",
+    "static/js/2.b7707082.chunk.js": "/React/static/js/2.b7707082.chunk.js",
+    "static/js/2.b7707082.chunk.js.map": "/React/static/js/2.b7707082.chunk.js.map",
+    "static/js/3.1901f6a2.chunk.js": "/React/static/js/3.1901f6a2.chunk.js",
+    "static/js/3.1901f6a2.chunk.js.map": "/React/static/js/3.1901f6a2.chunk.js.map",
     "index.html": "/React/index.html",
     "static/css/2.27dd871e.chunk.css.map": "/React/static/css/2.27dd871e.chunk.css.map",
     "static/css/main.4d10906e.chunk.css.map": "/React/static/css/main.4d10906e.chunk.css.map",
-    "static/js/2.e7193fa0.chunk.js.LICENSE.txt": "/React/static/js/2.e7193fa0.chunk.js.LICENSE.txt",
-    "static/media/Harry1.02b81d33.jpg": "/React/static/media/Harry1.02b81d33.jpg",
-    "static/media/Harry2.c7df0ff4.jpg": "/React/static/media/Harry2.c7df0ff4.jpg",
-    "static/media/Harry3.3d91b107.jpg": "/React/static/media/Harry3.3d91b107.jpg",
-    "static/media/Harry4.bf4146b9.jpg": "/React/static/media/Harry4.bf4146b9.jpg",
-    "static/media/Harry5.86dcc7c0.jpg": "/React/static/media/Harry5.86dcc7c0.jpg",
-    "static/media/Harry6.2872d705.jpg": "/React/static/media/Harry6.2872d705.jpg",
-    "static/media/Harry7.75899d6e.jpg": "/React/static/media/Harry7.75899d6e.jpg",
-    "static/media/Harry8.08996ba0.jpg": "/React/static/media/Harry8.08996ba0.jpg",
-    "static/media/Product1.77956d93.svg": "/React/static/media/Product1.77956d93.svg",
-    "static/media/Product2.eed26e69.svg": "/React/static/media/Product2.eed26e69.svg",
-    "static/media/Product3.d59558cc.svg": "/React/static/media/Product3.d59558cc.svg",
+    "static/js/2.b7707082.chunk.js.LICENSE.txt": "/React/static/js/2.b7707082.chunk.js.LICENSE.txt",
     "static/media/TheHungerGames.5982a8b3.jpg": "/React/static/media/TheHungerGames.5982a8b3.jpg",
     "static/media/ThePrince.87c6340d.jpg": "/React/static/media/ThePrince.87c6340d.jpg",
     "static/media/cienAnosdeSoledad.4dcfa06b.jpg": "/React/static/media/cienAnosdeSoledad.4dcfa06b.jpg",
@@ -33,10 +22,10 @@
     "static/media/Home.css": "/React/static/media/library2.5ead2f40.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc5b2288.js",
+    "static/js/runtime-main.dff1cbd3.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.e7193fa0.chunk.js",
+    "static/js/2.b7707082.chunk.js",
     "static/css/main.4d10906e.chunk.css",
-    "static/js/main.b3c33ee6.chunk.js"
+    "static/js/main.6410ff90.chunk.js"
   ]
 }
